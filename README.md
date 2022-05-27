@@ -11,30 +11,29 @@ A <a href='https://9anime.dev'>9anime.dev</a> scrapper module for python.
 
 # Installation
 
-Installing through pip for python.
+<b>Installing through pip for python.</b>
 
-```bash
+```console
 pip install animedev
 ```
 
-Installing through npm for node.js.
-```sh
+<b>Installing through npm for node.js.</b>
+```console
 npm install animedev
 ```
 
 Cloning using git.
 
 for python:
-```sh
+```console
 git clone https://github.com/SastaDev/9AnimeDev/for_python
 ```
 
 for node.js:
-```shell
+```console
 git clone https://github.com/SastaDev/9AnimeDev/for_node
 ```
 
-For
 # How To Use?
 
 The python way:
