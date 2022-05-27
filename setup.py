@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(
     name = 'animedev',
     packages = ['animedev'],
-    version = '0.0.3',
+    version = '1.0.0',
     license = 'Apache-2.0',
     description = 'A 9anime.dev scrapper module for python.', 
     author = 'Sasta Dev',
