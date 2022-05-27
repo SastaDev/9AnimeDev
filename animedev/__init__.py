@@ -16,4 +16,4 @@ class client:
             raise Exception(r.content)
         return json.loads(json.dumps(r.json(), indent=4))
 
-__version__ = '0.0.2'
+__version__ = '1.0.0'
