@@ -1,0 +1,19 @@
+{
+  "name": "animedev",
+  "version": "1.0.0",
+  "description": "A 9anime.dev scrapper module for Node.JS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SastaDev/9AnimeDev"
+  },
+  "keywords": [
+    "9animedev",
+    "animedev"
+  ],
+  "author": "Sasta Dev",
+  "license": "ISC"
+}
