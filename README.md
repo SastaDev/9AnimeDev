@@ -1,7 +1,7 @@
 # 9AnimeDev
 A <a href='https://9anime.dev'>9anime.dev</a> scrapper module for python.
 
-<b>Available in programming languages</b>
+<b>Available in programming languages:</b>
 ```py
 1. Python
 ```
