@@ -1,6 +1,14 @@
 # 9AnimeDev
 A <a href='https://9anime.dev'>9anime.dev</a> scrapper module for python.
 
+# Available in programming languages
+```py
+1. Python
+```
+```node
+2. Node.JS
+```
+
 # Installation
 
 Installing through pip for python.
@@ -80,7 +88,7 @@ try {
 ```
 To check version of animedev.
 
-```js
+```node
 // Printing version of animedev.
 const animedev = require('animedev')
 console.log(animedev.version)
