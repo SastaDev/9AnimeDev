@@ -12,7 +12,7 @@ pip install animedev
 Cloning using git.
 
 ```bash
-git clone https://github.com/SastaDev/9AnimeDev/src
+git clone https://github.com/SastaDev/9AnimeDev
 ```
 
 # How To Use?
