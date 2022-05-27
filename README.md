@@ -17,6 +17,11 @@ Installing through pip for python.
 pip install animedev
 ```
 
+Installing through npm for node.js.
+```sh
+npm install animedev
+```
+
 Cloning using git.
 
 for python:
@@ -25,10 +30,11 @@ git clone https://github.com/SastaDev/9AnimeDev/for_python
 ```
 
 for node.js:
-```sh
+```shell
 git clone https://github.com/SastaDev/9AnimeDev/for_node
 ```
 
+For
 # How To Use?
 
 The python way:
